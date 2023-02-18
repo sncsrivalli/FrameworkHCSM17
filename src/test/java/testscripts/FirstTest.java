@@ -6,7 +6,7 @@ import org.testng.asserts.SoftAssert;
 import genericLibraries.BaseClass;
 
 public class FirstTest extends BaseClass {
-
+//Skillrary first test
 	@Test
 	public void firstTest() {
 		SoftAssert soft = new SoftAssert();
